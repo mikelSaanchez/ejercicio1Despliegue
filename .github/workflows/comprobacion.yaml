@@ -37,3 +37,7 @@ jobs:
         run: |
           echo "Iniciando análisis sintáctico del código..."
           echo "No se han encontrado errores de sintaxis. ¡Todo correcto!"
+      - name: Paso 5
+        run: comando_que_no_existe_en_linux
+          
+          
